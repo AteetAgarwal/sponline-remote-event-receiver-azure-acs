@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="SharePointAddInOnline Feature2" Id="8f3cd6f8-8323-4b18-b70d-3d978103858c" Scope="Web" Version="1.3.0.0">
+  <ElementManifests>
+    <ElementManifest Location="RemoteEventReceiver\Elements.xml" />
+  </ElementManifests>
+  <UpgradeActions>
+    <VersionRange>
+      <ApplyElementManifests>
+        <ElementManifest Location="RemoteEventReceiver\Elements.xml" />
+      </ApplyElementManifests>
+    </VersionRange>
+  </UpgradeActions>
+</Feature>

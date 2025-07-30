@@ -1,0 +1,5 @@
+C:\D\Addins\SharePointAddInOnline\bin\Debug\SharePointAddInOnline.pdb
+C:\D\Addins\SharePointAddInOnline\obj\Debug\SharePointAddInOnline.csproj.AssemblyReference.cache
+C:\D\Addins\SharePointAddInOnline\obj\Debug\SharePointAddInOnline.csproj.CoreCompileInputs.cache
+C:\D\Addins\SharePointAddInOnline\obj\Debug\SharePointAddInOnline.dll
+C:\D\Addins\SharePointAddInOnline\obj\Debug\SharePointAddInOnline.pdb

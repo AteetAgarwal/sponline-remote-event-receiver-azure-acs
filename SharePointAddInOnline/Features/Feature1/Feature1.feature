@@ -1,0 +1,3 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feature deploymentPath="$SharePoint.Project.FileNameWithoutExtension$_$SharePoint.Feature.FileNameWithoutExtension$" title="SharePointAddInOnline Feature1" dslVersion="1.0.0.0" Id="d1284d10-586a-4db8-937a-a635b130a83e" featureId="d1284d10-586a-4db8-937a-a635b130a83e" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/FeatureModel">
+</feature>

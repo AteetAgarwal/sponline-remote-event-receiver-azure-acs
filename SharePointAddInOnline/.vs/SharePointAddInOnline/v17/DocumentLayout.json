@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\D\\Addins\\SharePointAddInOnline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67485247-BC99-4FC0-878B-06FECD9C9134}|..\\SharePointAddInOnlineWeb\\SharePointAddInOnlineWeb.csproj|c:\\d\\addins\\sharepointaddinonlineweb\\services\\remoteeventreceiver.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67485247-BC99-4FC0-878B-06FECD9C9134}|..\\SharePointAddInOnlineWeb\\SharePointAddInOnlineWeb.csproj|c:\\d\\addins\\sharepointaddinonlineweb\\tokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenHelper.cs",
+              "DocumentMoniker": "C:\\D\\Addins\\SharePointAddInOnlineWeb\\TokenHelper.cs",
+              "RelativeDocumentMoniker": "..\\SharePointAddInOnlineWeb\\TokenHelper.cs",
+              "ToolTip": "C:\\D\\Addins\\SharePointAddInOnlineWeb\\TokenHelper.cs",
+              "RelativeToolTip": "..\\SharePointAddInOnlineWeb\\TokenHelper.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAvwF4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:36:56.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RemoteEventReceiver.svc.cs",
+              "DocumentMoniker": "C:\\D\\Addins\\SharePointAddInOnlineWeb\\Services\\RemoteEventReceiver.svc.cs",
+              "RelativeDocumentMoniker": "..\\SharePointAddInOnlineWeb\\Services\\RemoteEventReceiver.svc.cs",
+              "ToolTip": "C:\\D\\Addins\\SharePointAddInOnlineWeb\\Services\\RemoteEventReceiver.svc.cs",
+              "RelativeToolTip": "..\\SharePointAddInOnlineWeb\\Services\\RemoteEventReceiver.svc.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAADMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:11:22.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

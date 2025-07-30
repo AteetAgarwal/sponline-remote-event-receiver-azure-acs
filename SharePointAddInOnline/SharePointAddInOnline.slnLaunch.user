@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "SharePointAddInOnline.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\SharePointAddInOnlineWeb\\SharePointAddInOnlineWeb.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
